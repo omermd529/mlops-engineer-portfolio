@@ -26,4 +26,4 @@ Currently building toward GPU/LLM optimization — efficient model serving, GPU 
 
 ## Tools & Stack
 - ZenML (pipeline orchestration)
-- [Add specifics: cloud provider, serving framework, etc.]
+
