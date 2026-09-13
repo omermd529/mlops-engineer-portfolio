@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-09-12T23:27:49.256694",
+  "feature_drift": true,
+  "prediction_drift": true,
+  "features": [
+    {
+      "feature": "feature_0",
+      "ref_mean": -0.009349967862303792,
+      "cur_mean": -0.4188198856026961,
+      "ks_statistic": 0.263,
+      "p_value": 1.0414099095210475e-20,
+      "drift_detected": true
+    },
+    {
+      "feature": "feature_1",
+      "ref_mean": -0.26681315550591533,
+      "cur_mean": 0.589098471437001,
+      "ks_statistic": 0.614,
+      "p_value": 4.512491411166866e-118,
+      "drift_detected": true
+    },
+    {
+      "feature": "feature_2",
+      "ref_mean": 0.012234548246150834,
+      "cur_mean": 0.5879845625593673,
+      "ks_statistic": 0.667,
+      "p_value": 1.5093961059887502e-141,
+      "drift_detected": true
+    },
+    {
+      "feature": "feature_3",
+      "ref_mean": -0.954095501819116,
+      "cur_mean": 0.2385743389161491,
+      "ks_statistic": 0.489,
+      "p_value": 7.72499518743365e-73,
+      "drift_detected": true
+    },
+    {
+      "feature": "feature_4",
+      "ref_mean": 0.6162462397100144,
+      "cur_mean": 0.5038109657492623,
+      "ks_statistic": 0.164,
+      "p_value": 2.9320104354874995e-08,
+      "drift_detected": true
+    }
+  ]
+}

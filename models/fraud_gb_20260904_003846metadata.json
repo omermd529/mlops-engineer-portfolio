@@ -1,0 +1,13 @@
+{
+  "model_name": "fraud_gb",
+  "model_path": "models/fraud_gb_20260904_003846.pk1",
+  "trained_at": "20260904_003846",
+  "metrics": {
+    "auc_roc": 0.8871,
+    "recall": 0.4524,
+    "precision": 0.5
+  },
+  "model_type": "GradientBoostingClassifier",
+  "file_size_kb": 125.38,
+  "checksum": "476310d40353c58397c2746ca80e1563"
+}
